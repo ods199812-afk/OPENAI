@@ -9,3 +9,4 @@ altair
 python-dateutil
 pytz
 toml
+numpy
